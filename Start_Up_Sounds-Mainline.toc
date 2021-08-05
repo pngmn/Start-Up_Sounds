@@ -1,0 +1,8 @@
+## Interface: 90100
+## Title: |cff0080cc<Start Up>|r Sounds
+## Notes: Just some sounds for the guild |cff0080cc<Start Up>|r
+## Author: pngmn
+## Version: @project-version@
+
+Embeds.xml
+Media.lua
