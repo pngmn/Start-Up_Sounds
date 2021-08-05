@@ -31,4 +31,13 @@ local function AddMedia(Type, File, Name, CustomType, Mask)
 	end
 end
 
-AddMedia("sound", "kuckkuck.mp3", "kuckkuck")
+AddMedia("sound", "anime_wow.mp3", "Anime wow")
+AddMedia("sound", "click_nice.mp3", "Click nice")
+AddMedia("sound", "fbi_open_up.mp3", "FBI open up")
+AddMedia("sound", "ha_got_em.mp3", "Ha got em")
+AddMedia("sound", "kuckkuck.mp3", "Kuck kuck")
+AddMedia("sound", "metal_gear_solid.mp3", "Metal Gear Solid")
+AddMedia("sound", "not_fine.mp3", "Not fine")
+AddMedia("sound", "pornhub_intro.mp3", "Pornhub intro")
+AddMedia("sound", "uh.mp3", "Uh")
+AddMedia("sound", "yeet.mp3", "Yeet")
