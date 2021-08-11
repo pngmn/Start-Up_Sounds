@@ -1,2 +1,2 @@
-### Changed in 1.0.4
+### Changed in 1.0.5
 - Added new sounds
