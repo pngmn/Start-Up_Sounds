@@ -1,4 +1,4 @@
-name: Release AddOn
+name: Release
 
 on:
   push:
@@ -9,10 +9,21 @@ env:
   GITHUB_OAUTH: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
-  release:
+  release: 
     runs-on: ubuntu-latest
     steps:
-      - name: Clone project
+      - name: Clone Project
         uses: actions/checkout@v1
-      - name: Package and release
+
+      - name: Create Retail Package
         uses: BigWigsMods/packager@master
+
+      - name: Create Classic Package
+        uses: BigWigsMods/packager@master
+        with:
+          args: -g classic
+
+      - name: Create BCC Package
+        uses: BigWigsMods/packager@master
+        with:
+          args: -g bcc
