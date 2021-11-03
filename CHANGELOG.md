@@ -1,3 +1,7 @@
+Start-Up Sounds | 1.1.0
+-----------------------
+TOC update for 9.1.5
+
 Start-Up Sounds | 1.0.6
 -----------------------
 Added "Lauf Schlampe, lauf"
