@@ -3,7 +3,6 @@ local LSM = LibStub("LibSharedMedia-3.0")
 local PREFIX = "<Start Up> "
 
 local MediaPath = {
-	font	= "Interface\\AddOns\\"..ADDON_NAME.."\\Fonts\\",
 	sound	= "Interface\\AddOns\\"..ADDON_NAME.."\\Sounds\\",
 }
 
@@ -63,3 +62,6 @@ AddMedia("sound", "yeet.mp3", "Yeet")
 AddMedia("sound", "lauf_schlampe.mp3", "Lauf Schlampe, lauf")
 AddMedia("sound", "emotional_damage.mp3", "Emotional Damage")
 AddMedia("sound", "bitte_helfen_sie_mir.mp3", "Bitten helfen Sie mir")
+AddMedia("sound", "sending.mp3", "SENDING")
+AddMedia("sound", "sending_long.mp3", "SENDING (Long Version)")
+AddMedia("sound", "john_cena.ogg", "John Cena entrance")

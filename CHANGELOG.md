@@ -1,3 +1,8 @@
+Start-Up Sounds | 1.2.1
+-----------------------
+Added Fraggo "Sending"
+Added John Cena Intro
+
 Start-Up Sounds | 1.2.0
 -----------------------
 - TOC update for 9.2.0
