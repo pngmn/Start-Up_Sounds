@@ -1,6 +1,6 @@
 local ADDON_NAME = ...
 local LSM = LibStub("LibSharedMedia-3.0")
-local PREFIX = "<Start Up> "
+local PREFIX = "<SU> "
 
 local MediaPath = {
 	sound	= "Interface\\AddOns\\"..ADDON_NAME.."\\Sounds\\",
