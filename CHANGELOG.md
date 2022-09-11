@@ -1,3 +1,16 @@
+Start-Up Sounds | 1.3.0
+-----------------------
+TOC update for 9.2.5
+Removed "Not fine"
+Added DrDisRespect "I'm launching Battlegrounds"
+Added Nickmercs "No"
+Added TimTheTatman "Fuck you pussy"
+Added TimTheTatman "Fuck"
+Added TimTheTatman "Fuck 2"
+Added TimTheTatman "Hey"
+Added TimTheTatman "Oh Yeah Daddy"
+Added TimTheTatman "What"
+
 Start-Up Sounds | 1.2.1
 -----------------------
 Added Fraggo "Sending"
@@ -5,9 +18,9 @@ Added John Cena Intro
 
 Start-Up Sounds | 1.2.0
 -----------------------
-- TOC update for 9.2.0
-- TOC update for 2.5.3
-- TOC update for 1.14.2
+TOC update for 9.2.0
+TOC update for 2.5.3
+TOC update for 1.14.2
 
 Start-Up Sounds | 1.1.1
 -----------------------
