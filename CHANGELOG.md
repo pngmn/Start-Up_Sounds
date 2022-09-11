@@ -1,2 +1,2 @@
-### Changed in 1.0.0
-- Public release
+### Changed in 1.0.3
+- Added new sounds
