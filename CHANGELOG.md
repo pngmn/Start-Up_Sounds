@@ -1,3 +1,8 @@
+Start-Up Sounds | 1.1.1
+-----------------------
+Added "Bitten helfen Sie mir"
+Added "Emotional Damage"
+
 Start-Up Sounds | 1.1.0
 -----------------------
 TOC update for 9.1.5
