@@ -1,18 +1,22 @@
-### Changed in 1.0.6
+Start-Up Sounds | 1.0.6
+-----------------------
 Added "Lauf Schlampe, lauf"
 Added "Ey Mama"
 Removed "Oktoberfest"
 
-### Changed in 1.0.5
+Start-Up Sounds | 1.0.5
+-----------------------
 Added Risitas laugh
 Added "Move bitch"
 Added Jokerd "Pull, pull, pull"
 
-### Changed in 1.0.4
+Start-Up Sounds | 1.0.4
+-----------------------
 Added Melchy "What"
 Added Melchy "Hä what"
 
-### Changed in 1.0.3
+Start-Up Sounds | 1.0.3
+-----------------------
 Added Drachenlord "Was zittersdn so"
 Added Melchy "Atemlos"
 Added "Ach du scheiße"
@@ -28,7 +32,8 @@ Added Gingi "Nein Stief"
 Added Gingi "Das ist verboten"
 Added Naowh "Tank Hello"
 
-### Changed in 1.0.2
+Start-Up Sounds | 1.0.2
+-----------------------
 Added "Bye bye"
 Added "Damn"
 Added "Du Depp"
@@ -42,7 +47,8 @@ Added "Oktoberfest"
 Added "So geil"
 Added "Utini"
 
-### Changed in 1.0.1
+Start-Up Sounds | 1.0.1
+-----------------------
 Added Anime "Wow"
 Added "Nice"
 Added "FBI open up"
@@ -53,5 +59,6 @@ Added Pornhub Intro
 Added "Uh"
 Added "Yeet"
 
-### Changed in 1.0.0
+Start-Up Sounds | 1.0.0
+-----------------------
 Added "Kuckkuck du kleine Schlampe"
