@@ -6,6 +6,7 @@
 ## Title: |cff0080cc<Start Up>|r Sounds
 ## Notes: Just some sounds for the guild |cff0080cc<Start Up>|r
 ## Author: Pingumania
-
-Embeds.xml
+#@non-debug@
+#Embeds.xml
+#@end-non-debug@
 Media.lua
