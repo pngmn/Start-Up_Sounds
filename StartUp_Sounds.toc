@@ -1,4 +1,4 @@
-## Interface: 90207
+## Interface: 100000
 ## Interface-Wrath: 30400
 ## Interface-Classic: 11403
 ## Version: @project-version@
@@ -6,7 +6,8 @@
 ## Title: |cff0080cc<Start Up>|r Sounds
 ## Notes: Just some sounds for the guild |cff0080cc<Start Up>|r
 ## Author: Pingumania
+
 #@non-debug@
-#Embeds.xml
+# Embeds.xml
 #@end-non-debug@
 Media.lua
