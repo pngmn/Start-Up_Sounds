@@ -1,3 +1,8 @@
+Start-Up Sounds | 1.5
+---------------------
+TOC update for 10.1.0
+TOC update for 3.4.1
+
 Start-Up Sounds | 1.4.0
 -----------------------
 TOC update for 10.0.0
