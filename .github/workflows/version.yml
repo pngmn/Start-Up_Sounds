@@ -2,7 +2,7 @@ name: Update TOC Interface version(s)
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '* * * * *'
 
 jobs:
   run:
