@@ -1,7 +1,7 @@
-## Interface: 100100
-## Interface-Classic: NNNNN
-## Interface-BCC: NNNNN
-## Interface-Wrath: NNNNN
+## Interface: 100107
+## Interface-Classic: 11404
+## Interface-BCC: 20504
+## Interface-Wrath: 30402
 ## Version: @project-version@
 
 ## Title: |cff0080cc<Start Up>|r Sounds
