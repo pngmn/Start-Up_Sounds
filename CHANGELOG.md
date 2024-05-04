@@ -1,3 +1,8 @@
+Start-Up Sounds | 1.7
+---------------------
+TOC update for 10.2.6
+Added & removed some sounds
+
 Start-Up Sounds | 1.6
 ---------------------
 TOC update for 10.2.5
