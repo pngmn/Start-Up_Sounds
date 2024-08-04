@@ -22,7 +22,5 @@ jobs:
 
       - name: Create multitoc package
         uses: BigWigsMods/packager@v2
-        with:
-          args: -S
         env:
           GITHUB_OAUTH: ${{ secrets.GITHUB_TOKEN }}
