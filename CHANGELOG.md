@@ -1,3 +1,7 @@
+Start-Up Sounds | 1.8
+---------------------
+TOC update for 11.0.0
+
 Start-Up Sounds | 1.7
 ---------------------
 TOC update for 10.2.6
